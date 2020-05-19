@@ -18,7 +18,6 @@ raptors_drafthistory = drafthistory.DraftHistory(team_id_nullable = raptorsid)
 
 raptors_drafthistory_df = raptors_drafthistory.get_data_frames()
 
-print(raptors_drafthistory_df)
 
 
 
